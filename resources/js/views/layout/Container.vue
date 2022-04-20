@@ -1,17 +1,204 @@
 <template>
- 
-  <h2 class="border">wavy</h2>
-  <h2 class="wave">wavy</h2>
-
-  <h2 class="border two">wavy</h2>
-  <h2 class="wave two">wavy</h2>
-
-  <h2 class="border three">wavy</h2>
-  <h2 class="wave three">wavy</h2>
-
-  
-  
- 
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
+<div class="snow"></div>
 </template>
 
 <script>
@@ -23,59 +210,53 @@
     }
 </script>
 <style lang=scss>
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
-
-* {
-	margin: 0;
-	padding: 0;
-}
-
 body {
-	font-family: "Work Sans", sans-serif;
-	letter-spacing: 2vmin;
-	background: rgb(14, 1, 1);
-	display: flex;	
-	height: 100vh;
-	width: 100vw;
-	align-items: center;
-	justify-content: center;
+  height: 100vh;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+  filter: drop-shadow(0 0 10px white);
 }
 
-h2 {
-	font-size: 15vmin;
-	position: absolute;
+@function random_range($min, $max) {
+  $rand: random();
+  $random_range: $min + floor($rand * (($max - $min) + 1));
+  @return $random_range;
 }
 
-.border {
-	color: rgb(55, 5, 71);  
-  text-shadow:
-    -1px -1px 0 white, 
-    1px -1px 0 white,
-    -1px 1px 0 white,
-    1px 1px 0 white;  
+.snow {
+  $total: 200;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: white;
+  border-radius: 50%;
+
+  @for $i from 1 through $total {
+    $random-x: random(1000000) * 0.0001vw;
+    $random-offset: random_range(-100000, 100000) * 0.0001vw;
+    $random-x-end: $random-x + $random-offset;
+    $random-x-end-yoyo: $random-x + ($random-offset / 2);
+    $random-yoyo-time: random_range(30000, 80000) / 100000;
+    $random-yoyo-y: $random-yoyo-time * 100vh;
+    $random-scale: random(10000) * 0.0001;
+    $fall-duration: random_range(10, 30) * 1s;
+    $fall-delay: random(30) * -1s;
+
+    &:nth-child(#{$i}) {
+      opacity: random(10000) * 0.0001;
+      transform: translate($random-x, -10px) scale($random-scale);
+      animation: fall-#{$i} $fall-duration $fall-delay linear infinite;
+    }
+
+    @keyframes fall-#{$i} {
+      #{percentage($random-yoyo-time)} {
+        transform: translate($random-x-end, $random-yoyo-y) scale($random-scale);
+      }
+
+      to {
+        transform: translate($random-x-end-yoyo, 100vh) scale($random-scale);
+      }
+    }
+  }
 }
-
-.wave {
-	color: white;
-	animation: wave 3s ease-in-out infinite;
-}
-
-.two {
-	transform: translateY(0.8em);
-}
-
-.three {
-	transform: translateY(-0.8em);
-}
-
-@keyframes wave {
-	0%, 100% {
-		clip-path: polygon(0% 47%, 10% 48%, 33% 54%, 54% 60%, 70% 61%, 84% 59%, 100% 52%, 100% 100%, 0% 100%);
-	}
-
-	50% {
-		clip-path: polygon(0% 60%, 15% 65%, 34% 66%, 51% 62%, 67% 50%, 84% 45%, 100% 46%, 100% 100%, 0% 100%);
-	}
-}
-
 </style>
