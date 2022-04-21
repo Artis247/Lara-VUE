@@ -1,204 +1,130 @@
 <template>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
-<div class="snow"></div>
+<svg class="tally" width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+	<path class="tally__path" d="M 10 10 C 10 15, 10 35, 10 70" stroke="#000" stroke-width="8" fill="none" stroke-linecap="round" stroke-dasharray="60 60" stroke-dashoffset="60">
+		<animate
+			attributeName="d"
+			values="
+				M 10 10 C 10 15, 10 35, 10 70;
+				M 10 10 C 10 15, 10 35, 10 70;
+				M 10 10 C 15 15, 15 35, 10 70;
+				M 10 10 C 15 15, 15 35, 10 70;
+				M 10 10 C  7 15,  7 35, 10 70;
+				M 10 10 C 12 15, 12 35, 10 70;
+				M 10 10 C 10 15, 10 35, 10 70;
+				M 10 10 C 10 15, 10 35, 10 70
+				"
+			keyTimes="0;0.25;0.28;0.51;0.53;0.55;0.57;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			repeatCount="indefinite"
+		/>
+		<animate
+			attributeName="stroke-dashoffset"
+			values="60;0;0;-60;-60"
+			keyTimes="0;0.075;0.75;0.825;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			repeatCount="indefinite"
+		/>
+	</path>
+	<path class="tally__path" d="M 30 10 C 30 25, 30 45, 30 70" stroke="#000" stroke-width="8" fill="none" stroke-linecap="round" stroke-dasharray="60 60" stroke-dashoffset="60">
+		<animate
+			attributeName="d"
+			values="
+				M 30 10 C 30 25, 30 45, 30 70;
+				M 30 10 C 30 25, 30 45, 30 70;
+				M 30 10 C 35 25, 35 45, 30 70;
+				M 30 10 C 35 25, 35 45, 30 70;
+				M 30 10 C 27 25, 27 45, 30 70;
+				M 30 10 C 32 25, 32 45, 30 70;
+				M 30 10 C 30 25, 30 45, 30 70;
+				M 30 10 C 30 25, 30 45, 30 70
+				"
+			keyTimes="0;0.25;0.28;0.51;0.53;0.55;0.57;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			begin="0.1s"
+			repeatCount="indefinite"
+		/>
+		<animate
+			attributeName="stroke-dashoffset"
+			values="60;0;0;-60;-60"
+			keyTimes="0;0.075;0.75;0.825;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			begin="0.1s"
+			repeatCount="indefinite"
+		/>
+	</path>
+	<path class="tally__path" d="M 50 10 C 50 35, 50 55, 50 70" stroke="#000" stroke-width="8" fill="none" stroke-linecap="round" stroke-dasharray="60 60" stroke-dashoffset="60">
+		<animate
+			attributeName="d"
+			values="
+				M 50 10 C 50 35, 50 55, 50 70;
+				M 50 10 C 50 35, 50 55, 50 70;
+				M 50 10 C 55 35, 55 55, 50 70;
+				M 50 10 C 55 35, 55 55, 50 70;
+				M 50 10 C 47 35, 47 55, 50 70;
+				M 50 10 C 52 35, 52 55, 50 70;
+				M 50 10 C 50 35, 50 55, 50 70;
+				M 50 10 C 50 35, 50 55, 50 70
+				"
+			keyTimes="0;0.25;0.28;0.51;0.53;0.55;0.57;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			begin="0.2s"
+			repeatCount="indefinite"
+		/>
+		<animate
+			attributeName="stroke-dashoffset"
+			values="60;0;0;-60;-60"
+			keyTimes="0;0.075;0.75;0.825;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			begin="0.2s"
+			repeatCount="indefinite"
+		/>
+	</path>
+	<path class="tally__path" d="M 70 10 C 70 45, 70 65, 70 70" stroke="#000" stroke-width="8" fill="none" stroke-linecap="round" stroke-dasharray="60 60" stroke-dashoffset="60">
+		<animate
+			attributeName="d"
+			values="
+				M 70 10 C 70 45, 70 65, 70 70;
+				M 70 10 C 70 45, 70 65, 70 70;
+				M 70 10 C 75 45, 75 65, 70 70;
+				M 70 10 C 75 45, 75 65, 70 70;
+				M 70 10 C 67 45, 67 65, 70 70;
+				M 70 10 C 72 45, 72 65, 70 70;
+				M 70 10 C 70 45, 70 65, 70 70;
+				M 70 10 C 70 45, 70 65, 70 70
+				"
+			keyTimes="0;0.25;0.28;0.51;0.53;0.55;0.57;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			begin="0.3s"
+			repeatCount="indefinite"
+		/>
+		<animate
+			attributeName="stroke-dashoffset"
+			values="60;0;0;-60;-60"
+			keyTimes="0;0.075;0.75;0.825;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			begin="0.3s"
+			repeatCount="indefinite"
+		/>
+	</path>
+	<line class="tally__line" x1="4" y1="20" x2="76" y2="60" stroke="#000" stroke-width="8" fill="none" stroke-linecap="round" stroke-dasharray="82.37 82.37" stroke-dashoffset="82.37">
+		<animate
+			attributeName="stroke-dashoffset"
+			values="82.37;82.37;0;0;-82.37;-82.37"
+			keyTimes="0;0.25;0.35;0.5;0.6;1"
+			keySplines="0 0 0.5 1"
+			dur="4s"
+			repeatCount="indefinite"
+		/>
+	</line>
+</svg>
 </template>
 
 <script>
@@ -210,53 +136,32 @@
     }
 </script>
 <style lang=scss>
+* {
+	border: 0;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--hue: 223;
+	--bg: hsl(var(--hue),90%,55%);
+	--fg: hsl(var(--hue),10%,90%);
+	font-size: calc(16px + (24 - 16) * (100vw - 320px) / (1280 - 320));
+}
 body {
-  height: 100vh;
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  overflow: hidden;
-  filter: drop-shadow(0 0 10px white);
+	background: var(--bg);
+	color: var(--fg);
+	font: 1em/1.5 sans-serif;
+	height: 100vh;
+	display: grid;
+	place-items: center;
 }
-
-@function random_range($min, $max) {
-  $rand: random();
-  $random_range: $min + floor($rand * (($max - $min) + 1));
-  @return $random_range;
+.tally {
+	width: 10em;
+	height: 10em;
 }
-
-.snow {
-  $total: 200;
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  background: white;
-  border-radius: 50%;
-
-  @for $i from 1 through $total {
-    $random-x: random(1000000) * 0.0001vw;
-    $random-offset: random_range(-100000, 100000) * 0.0001vw;
-    $random-x-end: $random-x + $random-offset;
-    $random-x-end-yoyo: $random-x + ($random-offset / 2);
-    $random-yoyo-time: random_range(30000, 80000) / 100000;
-    $random-yoyo-y: $random-yoyo-time * 100vh;
-    $random-scale: random(10000) * 0.0001;
-    $fall-duration: random_range(10, 30) * 1s;
-    $fall-delay: random(30) * -1s;
-
-    &:nth-child(#{$i}) {
-      opacity: random(10000) * 0.0001;
-      transform: translate($random-x, -10px) scale($random-scale);
-      animation: fall-#{$i} $fall-duration $fall-delay linear infinite;
-    }
-
-    @keyframes fall-#{$i} {
-      #{percentage($random-yoyo-time)} {
-        transform: translate($random-x-end, $random-yoyo-y) scale($random-scale);
-      }
-
-      to {
-        transform: translate($random-x-end-yoyo, 100vh) scale($random-scale);
-      }
-    }
-  }
+.tally__line,
+.tally__path {
+	stroke: currentColor;
 }
 </style>

@@ -19,7 +19,7 @@
 <style lang=scss>
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
 
-* {
+/* * {
 	margin: 0;
 	padding: 0;
 }
@@ -38,10 +38,10 @@ body {
 h2 {
 	font-size: 15vmin;
 	position: absolute;
-}
+} */
 
 .border {
-	color: black;  
+	color: rgb(68, 16, 119);  
   text-shadow:
     -1px -1px 0 white, 
     1px -1px 0 white,
